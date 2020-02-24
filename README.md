@@ -123,4 +123,4 @@ Any bugs or question please feel free to post at Github[Issue system](https://gi
         - What version of the product are you using? On what operating system?（你正在使用产品的哪个版本？在什么操作系统上？）
         - Please provide any additional information below.（如果有的话，请在下面提供更多信息。）
 
-[![Gitter](https://badges.gitter.im/tuiqiao_cboard/community.svg)](https://gitter.im/tuiqiao_cboard/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Gitter](https://badges.gitter.im/tuiqiao_cboard/community.svg)](https://gitter.im/tuiqiao_cboard/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)# Repository name
