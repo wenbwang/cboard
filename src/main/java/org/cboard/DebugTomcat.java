@@ -9,7 +9,7 @@ import org.apache.catalina.deploy.ErrorPage;
 import org.apache.catalina.startup.Tomcat;
 
 /**
- * Created by zhongjian on 11/17/16.
+ * 向服务器日志中，输出报错日志信息
  */
 public class DebugTomcat {
 
